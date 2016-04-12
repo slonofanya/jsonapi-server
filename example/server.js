@@ -26,7 +26,8 @@ jsonApi.setConfig({
   base: "rest",
   meta: {
     description: "This block shows up in the root node of every payload"
-  }
+  },
+  cors: false
 });
 
 jsonApi.authenticate(function(request, callback) {
