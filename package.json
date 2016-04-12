@@ -1,7 +1,7 @@
 {
-  "name": "jsonapi-server",
-  "version": "1.3.3",
-  "description": "A config driven NodeJS framework implementing json:api",
+  "name": "jsonapi-server-sl-fork",
+  "version": "1.0.0",
+  "description": "Fork from a config driven NodeJS framework implementing json:api",
   "keywords": [
     "jsonapi",
     "json:api",
@@ -9,11 +9,11 @@
     "api"
   ],
   "main": "lib/jsonApi.js",
-  "author": "Oliver Rumbelow",
+  "author": "Oliver Rumbelow, Slonofanya",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/holidayextras/jsonapi-server"
+    "url": "https://github.com/slonofanya/jsonapi-server"
   },
   "engines": {
     "node": "*"

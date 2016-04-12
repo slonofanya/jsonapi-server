@@ -7,6 +7,8 @@
 
 # jsonapi-server
 
+## It is the fork from: https://www.npmjs.com/package/jsonapi-server
+
 A config driven NodeJS framework implementing [`json:api`](http://jsonapi.org/). You define the resources, it provides the api.
 
 ### Motivation / Justification / Rationale
